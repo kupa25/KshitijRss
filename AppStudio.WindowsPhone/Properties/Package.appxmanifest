@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
-  <Identity Name="31366Kshitij.KshitijRss" Publisher="CN=31DAE921-5108-420E-A31E-D77E1C37C4AF" Version="1.1.0.0" />
+  <Identity Name="31366Kshitij.KshitijRss" Publisher="CN=31DAE921-5108-420E-A31E-D77E1C37C4AF" Version="1.1.0.1" />
   <mp:PhoneIdentity PhoneProductId="f9ca7b3d-56bc-40d1-a246-0b6066d48d63" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Kshitij Rss</DisplayName>

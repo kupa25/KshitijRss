@@ -23,7 +23,7 @@
       <HubSection HeaderTemplate="{StaticResource HubHeader}" Width="360" Header="Scott Hanselman" DataContext="{Binding MainViewModel.ScottHanselmanModel}" ContentTemplate="{StaticResource ScottHanselmanList}" IsHeaderInteractive="{Binding HasMoreItems}" />
     </Hub>
       
-    <adPage:AdControl Grid.Row="2" AppId="119603"/>
+    <adPage:AdControl Grid.Row="2" AppId="119063"/>
   </Grid>
 
   <Page.BottomAppBar>
